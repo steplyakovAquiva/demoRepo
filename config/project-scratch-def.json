@@ -3,8 +3,8 @@
     "edition": "Developer",
     "language": "en_US",
     "settings": {
-        "orgPreferenceSettings": {
-            "apexApprovalLockUnlock": true
+        "apexSettings": {
+            "enableApexApprovalLockUnlock": true
         }
     }
 }
