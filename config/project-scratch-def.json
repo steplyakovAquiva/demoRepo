@@ -1,12 +1,10 @@
 {
-  "country": "US",
-  "edition": "Developer",
-  "orgPreferences": {
-    "enabled": [
-      "S1DesktopEnabled"
-    ],
-    "disabled": []
-  },
-  "orgName": "Your Company",
-  "adminEmail": "yourname@example.com"
+    "orgName": "TestPackage",
+    "edition": "Developer",
+    "language": "en_US",
+    "settings": {
+        "orgPreferenceSettings": {
+            "apexApprovalLockUnlock": true
+        }
+    }
 }
