@@ -1,0 +1,10 @@
+{
+    "orgName": "TestPackage",
+    "edition": "Developer",
+    "language": "en_US",
+    "settings": {
+        "apexSettings": {
+            "enableApexApprovalLockUnlock": true
+        }
+    }
+}
